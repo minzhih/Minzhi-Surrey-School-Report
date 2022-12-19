@@ -1,4 +1,4 @@
-Minzhi Fall 2021 - Spring 2022 Surrey School Projects (participated in all four projects, mainly contributed to Fench Immersion Program project and Systematic Literature Review):
+Minzhi Fall 2021 - Spring 2022 Surrey School Projects (participated in all four projects, mainly contributed to French Immersion Program project and Systematic Literature Review):
 
 1.Evaluation of the Check and Connect Program in Surrey Schools
 
