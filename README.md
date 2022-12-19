@@ -8,6 +8,7 @@ with school and who are at risk of dropping out
 Program Page: https://surreyschools.ca/page/1127/check-and-connect
 
 • Responsible for creating a dataset of 76 students in the evaluation of the Check and Connect Program in Surrey Schools
+
 • Collaborated with others in the department to identify data errors in the original dataset and carry out methods to analyze the data. The analysis helped   the department to develop a report and recommendations to improve the program
 
 <img width="562" alt="Screen Shot 2022-12-18 at 8 08 52 PM" src="https://user-images.githubusercontent.com/37996767/208345860-f57f92df-510d-409c-9b1d-b808647ec1b8.png">
