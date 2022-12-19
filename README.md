@@ -32,6 +32,7 @@ Report example page：
 
 Infographic example page：
 
+<img width="484" alt="Screen Shot 2022-12-18 at 9 52 19 PM" src="https://user-images.githubusercontent.com/37996767/208357081-d3392e34-b2d3-435e-99d5-bc9827a0d513.png">
 
 The Check and Connect Program seeks to foster student engagement at school with the students who show warning signs of disengagement
 with school and who are at risk of dropping out
