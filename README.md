@@ -53,3 +53,5 @@ Program Page: https://www.surreyschools.ca/page/127567/social-emotional-learning
 
 Example report page：
 
+<img width="610" alt="Screen Shot 2022-12-18 at 10 33 24 PM" src="https://user-images.githubusercontent.com/37996767/208362622-1a2d6c72-04c6-46f7-945b-feabacd77c02.png">
+
