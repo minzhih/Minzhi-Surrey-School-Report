@@ -26,6 +26,7 @@ Program Page: https://www.surreyschools.ca/page/1158/french-immersion
 • Built the analyses result into reports and a set of infographics
 
 Report example page：
+
 <img width="560" alt="Screen Shot 2022-12-18 at 9 44 19 PM" src="https://user-images.githubusercontent.com/37996767/208356139-cb134adf-70a2-430d-80e2-57fe9239de90.png">
 
 
