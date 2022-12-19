@@ -18,7 +18,7 @@ Example report page：
 <img width="562" alt="Screen Shot 2022-12-18 at 8 08 52 PM" src="https://user-images.githubusercontent.com/37996767/208345860-f57f92df-510d-409c-9b1d-b808647ec1b8.png">
 
 
-2.Survey of the Fench Immersion Program – Surrey School District
+2.Survey of the French Immersion Program – Surrey School District
 
 French Immersion is an intensive second language acquisition program. Students study in French while following the regular B.C. Curriculum Prescribed Learning Outcomes
 
