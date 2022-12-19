@@ -35,6 +35,8 @@ Infographic example page：
 
 3. Systematic Literature Review: The Evolving Nature of Literacy and Assessment
 
+The systematic literature review project is foundational to the development of workshops and professional development activities delivered across surrey schools
+
 The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
 with school and who are at risk of dropping out
 
