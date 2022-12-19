@@ -1,5 +1,7 @@
 Minzhi Fall 2021 - Spring 2022 Surrey School Projects (participated in all four projects, mainly contributed to French Immersion Program project and Systematic Literature Review):
 
+Department website: https://www.surreyschools.ca/page/329/research-evaluation
+
 1.Evaluation of the Check and Connect Program in Surrey Schools
 
 The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
@@ -58,3 +60,4 @@ Example report page：
 
 <img width="610" alt="Screen Shot 2022-12-18 at 10 33 24 PM" src="https://user-images.githubusercontent.com/37996767/208362622-1a2d6c72-04c6-46f7-945b-feabacd77c02.png">
 
+Acknowledgement: Sincerely thank my supervisor, Matthew Waugh for having me in these program. Thanks to my co-worker Megan Giroux, Anna-Maria Karout, Shuhan Yang. All above projects are in collaboration with my co-worker
