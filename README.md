@@ -32,7 +32,7 @@ Report example page：
 Infographic example page：
 
 
-The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
+The Check and Connect Program seeks to foster student engagement at school with the students who show warning signs of disengagement
 with school and who are at risk of dropping out
    
 
