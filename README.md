@@ -29,14 +29,14 @@ Report example page：
 
 <img width="560" alt="Screen Shot 2022-12-18 at 9 44 19 PM" src="https://user-images.githubusercontent.com/37996767/208356139-cb134adf-70a2-430d-80e2-57fe9239de90.png">
 
-
 Infographic example page：
 
 <img width="484" alt="Screen Shot 2022-12-18 at 9 52 19 PM" src="https://user-images.githubusercontent.com/37996767/208357081-d3392e34-b2d3-435e-99d5-bc9827a0d513.png">
 
-The Check and Connect Program seeks to foster student engagement at school with the students who show warning signs of disengagement
-with school and who are at risk of dropping out
-   
+3. Systematic Literature Review: The Evolving Nature of Literacy and Assessment
 
-4. Systematic Literature Review: The Evolving Nature of Literacy and Assessment
+The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
+with school and who are at risk of dropping out
+
+
 5. Social and Emotional Learning Lead Initative Report
