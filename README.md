@@ -39,5 +39,7 @@ The systematic literature review project is foundational to the development of w
 
 • Collaborated with district education consultants to identify relevant peer-reviewed articles and books concerning multiple and critical literacies across school subject areas (e.g., mathematics and statistics, English Language Arts, science, social studies, and civic engagement)
 
+<img width="552" alt="Screen Shot 2022-12-18 at 10 22 44 PM" src="https://user-images.githubusercontent.com/37996767/208361012-c78d7702-0ea6-4ae7-b47f-0a6fd8d28f65.png">
+
 
 5. Social and Emotional Learning Lead Initative Report
