@@ -1,8 +1,10 @@
 Minzhi Fall 2021 - Spring 2022 Surrey School Projects:
 
 1. Evaluation of the Check and Connect Program in Surrey Schools
-”The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
-with school and who are at risk of dropping out"     
+
+The Check and Connect Program seeks to foster student engagement at school and with learning with the students who show warning signs of disengagement
+with school and who are at risk of dropping out
+
 Program Page: https://surreyschools.ca/page/1127/check-and-connect
 
 <img width="562" alt="Screen Shot 2022-12-18 at 8 08 52 PM" src="https://user-images.githubusercontent.com/37996767/208345860-f57f92df-510d-409c-9b1d-b808647ec1b8.png">
