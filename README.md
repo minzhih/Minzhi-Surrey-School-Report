@@ -23,7 +23,7 @@ Program Page: https://www.surreyschools.ca/page/1158/french-immersion
 
 • Provided robust analyses of open-ended data and survey questions where the data and questions contained the responses from more than 600 students and their parents 
 
-• Collaborated with others in the department to identify data errors in the original dataset and carry out methods to analyze the data. The analysis helped   the department to develop a report and recommendations to improve the program
+• Built the analyses result into reports and a set of infographics
 
 Report example page：
 
