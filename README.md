@@ -60,4 +60,4 @@ Example report page：
 
 <img width="610" alt="Screen Shot 2022-12-18 at 10 33 24 PM" src="https://user-images.githubusercontent.com/37996767/208362622-1a2d6c72-04c6-46f7-945b-feabacd77c02.png">
 
-Acknowledgement: Sincerely thank my supervisor, Matthew Waugh for having me in these program. Thanks to my co-worker Megan Giroux, Anna-Maria Karout, Shuhan Yang. All above projects are in collaboration with my co-worker
+Acknowledgment: Sincerely thank my supervisor, Matthew Waugh for having me in these fantastic programs. Thanks to my co-worker Megan Giroux, Anna-Maria Karout, and Shuhan Yang. All above projects are in collaboration with my co-worker
