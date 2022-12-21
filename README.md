@@ -17,8 +17,7 @@ Example report page：
 
 <img width="562" alt="Screen Shot 2022-12-18 at 8 08 52 PM" src="https://user-images.githubusercontent.com/37996767/208345860-f57f92df-510d-409c-9b1d-b808647ec1b8.png">
 
-
-2.Survey of the French Immersion Program – Surrey School District
+## 2.Survey of the French Immersion Program – Surrey School District
 
 French Immersion is an intensive second language acquisition program. Students study in French while following the regular B.C. Curriculum Prescribed Learning Outcomes
 
@@ -36,8 +35,7 @@ Example infographic page:
 
 <img width="484" alt="Screen Shot 2022-12-18 at 9 52 19 PM" src="https://user-images.githubusercontent.com/37996767/208357081-d3392e34-b2d3-435e-99d5-bc9827a0d513.png">
 
-
-3.Systematic Literature Review: The Evolving Nature of Literacy and Assessment
+## 3.Systematic Literature Review: The Evolving Nature of Literacy and Assessment
 
 The systematic literature review project is foundational to the development of workshops and professional development activities delivered across surrey schools
 
@@ -47,8 +45,7 @@ Example report page：
 
 <img width="552" alt="Screen Shot 2022-12-18 at 10 22 44 PM" src="https://user-images.githubusercontent.com/37996767/208361012-c78d7702-0ea6-4ae7-b47f-0a6fd8d28f65.png">
 
-
-4.Social and Emotional Learning Lead Initative Report
+## 4.Social and Emotional Learning Lead Initative Report
 
 The SEL Lead Initiative seeks to improve the SEL competencies and wellbeing of thousands of students and hundreds of their teachers in Surrey Schools
 
