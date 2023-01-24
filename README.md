@@ -45,7 +45,7 @@ Example report page：
 
 <img width="552" alt="Screen Shot 2022-12-18 at 10 22 44 PM" src="https://user-images.githubusercontent.com/37996767/208361012-c78d7702-0ea6-4ae7-b47f-0a6fd8d28f65.png">
 
-## 4.Social and Emotional Learning Lead Initative Report
+## 4.Social and Emotional Learning Lead Initiative Report
 
 The SEL Lead Initiative seeks to improve the SEL competencies and wellbeing of thousands of students and hundreds of their teachers in Surrey Schools
 
